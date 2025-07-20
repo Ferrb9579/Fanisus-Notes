@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f736e47f4431b2",
+        "id": "4c7eb3ae4120d6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "a2383ebf912cb0be",
+            "id": "b5382431b3be4149",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -173,6 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2383ebf912cb0be",
-  "lastOpenFiles": []
+  "active": "b5382431b3be4149",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Welcome.ipynb",
+    "Untitled.md",
+    "Untitled.ipynb"
+  ]
 }
