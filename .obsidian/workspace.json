@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "f55d3528639ddf1d",
+    "id": "54c2309a6d7c51f2",
     "type": "split",
     "children": [
       {
-        "id": "4c7eb3ae4120d6a3",
+        "id": "d58af6b738feb4d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b5382431b3be4149",
+            "id": "18d7a770f9d32e6e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Placement Training/Coding Phase 1/JAVA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "JAVA"
             }
           }
         ]
@@ -28,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f2af7026341078d5",
+    "id": "3160b2058a7241d4",
     "type": "split",
     "children": [
       {
-        "id": "da9e64a325962b07",
+        "id": "d0698707243e64b4",
         "type": "tabs",
         "children": [
           {
-            "id": "80745e6d1e5c7066",
+            "id": "694471a82af953d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +48,7 @@
             }
           },
           {
-            "id": "b822137ab38522b8",
+            "id": "f6ac116318a5e3c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +65,7 @@
             }
           },
           {
-            "id": "338ad722568c0696",
+            "id": "961e0b9be305f140",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9080f44282b5ff12",
+    "id": "70cdf969e21a7af0",
     "type": "split",
     "children": [
       {
-        "id": "c0ebb81a1444dbab",
+        "id": "c64b51e62d866299",
         "type": "tabs",
         "children": [
           {
-            "id": "d434f9333cb75bd6",
+            "id": "8856ca27c34a071f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "SE Notes/Module 2/Feasibility Study Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Feasibility Study Implementation"
             }
           },
           {
-            "id": "ba42b32b49f43a17",
+            "id": "13941041d7ed1e49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "SE Notes/Module 2/Feasibility Study Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Feasibility Study Implementation"
             }
           },
           {
-            "id": "73a3415899e0225e",
+            "id": "1a3ccc42229b09de",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,22 +137,22 @@
             }
           },
           {
-            "id": "8fde7baa4d53acbd",
+            "id": "13bd05b933d3807d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "SE Notes/Module 2/Feasibility Study Implementation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Feasibility Study Implementation"
             }
           },
           {
-            "id": "2cd882bf0c6bdaf9",
+            "id": "d0c9471d40ddcfa2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,14 +178,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "b5382431b3be4149",
+  "active": "18d7a770f9d32e6e",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Welcome.ipynb",
-    "Untitled.md",
-    "Untitled.ipynb"
+    "Placement Training/Coding Phase 1/Leetcode.md",
+    "Placement Training/Coding Phase 1/JAVA.md",
+    "Placement Training/Coding Phase 1",
+    "Placement Training",
+    "Jupyter Notebook 2025-09-02-12-05-06.ipynb",
+    "/Jupyter Notebook 2025-09-02-12-05-06.ipynb",
+    "SE Notes/Module 2/Feasibility Study Implementation.md",
+    "SE Notes/Module 2/Feasibility Studies.md",
+    "SE Notes/Module 2/Requirement Engineering.md",
+    "SE Notes/Module 2"
   ]
 }
